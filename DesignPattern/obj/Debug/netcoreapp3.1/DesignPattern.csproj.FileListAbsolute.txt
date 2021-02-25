@@ -1,0 +1,13 @@
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.exe
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.json
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.dev.json
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.CoreCompileInputs.cache
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\Mukki\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.genruntimeconfig.cache
