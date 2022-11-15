@@ -10,10 +10,12 @@ namespace DesignPattern
             
 
 
-            Console.WriteLine("Factory Pattern !!!!");
+            Console.WriteLine("Abstract Factory Pattern !!!!");
             Console.WriteLine();
 
-            FactoryPattern factory = new FactoryPattern();
+            AbstractFactory abstractFactory = new AbstractFactory();
+
+           // FactoryPattern factory = new FactoryPattern();
         }
     }
 }
