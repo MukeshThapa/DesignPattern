@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-//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
+
 namespace DesignPattern
 {
    static class CodeSnippet
