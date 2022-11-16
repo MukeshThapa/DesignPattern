@@ -9,6 +9,13 @@ namespace DesignPattern
         //It is a Creational Design Pattern which solves problem while creating the objects.
         //It provides a factory and using the factory we request another factory to create the related objects instead of individual creating
 
+
+       //                               Automobile
+       //             Tesla                                  Tata
+       //       Bike            Car                 Bike               Car
+       // Manufacture()     Manufacture()        Manufacture()     Manufacture()
+
+
         public AbstractFactory()
         {
             Console.WriteLine("Creating Tesla objects");
