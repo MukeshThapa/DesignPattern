@@ -4,6 +4,8 @@ using System.Text;
 
 namespace DesignPattern
 {
+
+    // This is factory Pattern Ex.
     class FactoryPattern
     {
         public FactoryPattern()
