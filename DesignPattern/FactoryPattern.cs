@@ -7,6 +7,7 @@ namespace DesignPattern
 
 //this is client comment.
     // This is factory Pattern Ex.
+    // new changes
     
     //confilict messge
     class FactoryPattern
@@ -37,6 +38,8 @@ namespace DesignPattern
             Console.WriteLine(factory.GetFirstName());
 
             Console.WriteLine(factory.GetFullName());
+         Console.WriteLine(factory.GetFullName());
+      Console.WriteLine(factory.GetFullName());
 
             Console.ReadLine();
         }
