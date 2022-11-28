@@ -23,8 +23,7 @@ namespace DesignPattern
 
             //Console.WriteLine("Factory Patter Code Snippet");
 
-
-
+ Console.WriteLine("test");
             CodeSnippet.Factory();
             Console.WriteLine();
             Console.WriteLine();
