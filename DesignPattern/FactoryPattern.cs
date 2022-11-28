@@ -6,6 +6,8 @@ namespace DesignPattern
 {
 
     // This is factory Pattern Ex.
+    
+    //confilict messge
     class FactoryPattern
     {
         public FactoryPattern()
