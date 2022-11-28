@@ -6,10 +6,7 @@ namespace DesignPattern
 {
 
 //this is client comment.
-    // This is factory Pattern Ex.
-    // new changes
-    
-    //confilict messge
+
     class FactoryPattern
     {
         public FactoryPattern()
