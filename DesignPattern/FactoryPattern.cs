@@ -5,6 +5,7 @@ using System.Text;
 namespace DesignPattern
 {
 
+//this is client comment.
     // This is factory Pattern Ex.
     class FactoryPattern
     {
